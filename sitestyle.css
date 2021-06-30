@@ -1,0 +1,61 @@
+body {
+    background-color: #373737;
+
+    text-align: center;
+}
+
+.promptSection {
+    background-color: #007FFF;
+
+    margin: 15% 37.5% 20px;
+
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #0050A0;
+    border-style: solid;
+    padding: 25px;
+}
+
+.inputBox {
+    background-color: #424242;
+
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    color: azure;
+}
+
+.promptButton {
+    background-color: azure;
+
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bold;
+    color: black
+}
+
+.resultBox {
+    background-color: #10B855;
+
+    margin: 20px 35% 20px;
+    border-radius: 20px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: darkgreen;
+    padding: 10px;
+
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: bold;
+    color: azure;
+}
